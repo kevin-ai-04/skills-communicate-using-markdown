@@ -10,3 +10,9 @@ Tesla <br>
 SpaceX <br>
 Nurallink <br>
 The Boring Company <br>
+
+##### Python Code
+``` python
+TeslaCEO="Elon Musk"
+print(TeslaCEO)
+```
