@@ -16,3 +16,8 @@ The Boring Company <br>
 TeslaCEO="Elon Musk"
 print(TeslaCEO)
 ```
+
+#### Check Boxes
+- [x] Cool Guy
+- [x] Very Rich
+- [ ] Gets Enough Sleep
